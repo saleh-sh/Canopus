@@ -7,9 +7,13 @@ The dataset was collected using a custom-developed Android application, and the 
 
 ## Repository Structure
 .
+
 ├── WaveTrack/ # Source code of the Android app for data collection
+
 ├── Data/ # Collected dataset (CSV format)
+
 ├── Analysis/ # Python scripts for data analysis and parameter estimation
+
 └── README.md # Project documentation
 
 
