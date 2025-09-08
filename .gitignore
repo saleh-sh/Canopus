@@ -41,5 +41,7 @@ crashlytics-build.properties
 
 # Others
 captures/
+
 Report/
 .venv/
+Upload/
