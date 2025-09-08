@@ -1,0 +1,45 @@
+# Android Studio / IntelliJ
+.idea/
+*.iml
+
+# Gradle files
+.gradle/
+build/
+*/build/
+
+# Local configuration
+local.properties
+
+# Log files
+*.log
+
+# Android specific
+*.apk
+*.ap_
+*.dex
+*.class
+*.so
+*.jar
+*.aar
+*.war
+
+# Generated files
+bin/
+gen/
+out/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Keystore files (do not upload signing keys!)
+*.jks
+*.keystore
+
+# Crashlytics / Firebase
+crashlytics-build.properties
+
+# Others
+captures/
+Report/
+.venv/
