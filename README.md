@@ -1,6 +1,6 @@
-# Canopus Project: Large-Scale Channel Parameter Estimation
+# Canopus Project: Large-Scale Parameters Estimation of Fading Channel
 
-This repository contains the data and source code for the project **Estimation of Large-Scale Wireless Channel Parameters (Path Loss and Shadow Fading)**.  
+This repository contains the data and source code for the project **Large-Scale Parameters (Path Loss and Shadow Fading) Estimation of Wireless Channel**.  
 The dataset was collected using a custom-developed Android application, and the analysis was performed in Python to estimate the channel model parameters.  
 
 ---
